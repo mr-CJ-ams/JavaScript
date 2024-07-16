@@ -1,1 +1,3 @@
 Initial commit
+
+JavaScript lessons
